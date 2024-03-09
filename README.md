@@ -10,7 +10,7 @@ A Library Management System is designed to streamline administrative tasks relat
 4) Update book price
 5) View all books
 
-**Key Features of Library Management System:**
+## Key Features of Library Management System:
 
 1. **Efficient Book Handling:**
    - The system is designed to be user-friendly, allowing librarians to efficiently manage books by easily adding, removing, and viewing their status.
