@@ -44,7 +44,7 @@ A Library Management System is designed to streamline administrative tasks relat
 6. **Versatility:**
    - Java's versatility enables developers to create scalable and adaptable solutions, meeting the diverse needs of a Library Management System effectively.
   
-**MVC Architecture Implementation for Library Management System:**
+## MVC Architecture Implementation for Library Management System:**
 
 The Model-View-Controller (MVC) architecture is a structural pattern that divides the Library Management System into three distinct components: Model, View, and Controller.
 
@@ -66,7 +66,7 @@ b) `com.jsp.lms.view`: Includes classes related to the user interface and data p
 
 c) `com.jsp.lms.controller`: Houses classes that act as intermediaries, handling user input, processing it, and facilitating communication between the Model and the View.
 
-**Source Code Structure - com.jsp.lms.model:**
+## Source Code Structure - com.jsp.lms.model:
 
 Within the `com.jsp.lms.model` package, two distinct classes have been implemented: `Book` and `Library`.
 
