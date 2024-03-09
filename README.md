@@ -44,5 +44,34 @@ A Library Management System is designed to streamline administrative tasks relat
 6. **Versatility:**
    - Java's versatility enables developers to create scalable and adaptable solutions, meeting the diverse needs of a Library Management System effectively.
   
+**MVC Architecture Implementation for Library Management System:**
+
+The Model-View-Controller (MVC) architecture is a structural pattern that divides the Library Management System into three distinct components: Model, View, and Controller.
+
+**Workflow of MVC:**
+1. **Model:**
+   - Represents the application's data and business logic. Responsible for data manipulation, storage, and overall management of the application's internal state.
+
+2. **View:**
+   - Represents the user interface, presenting data to the user and transmitting user input to the Controller. Focuses on the visual representation and user interaction aspects of the system.
+
+3. **Controller:**
+   - Acts as an intermediary between the Model and the View. Receives user input from the View, processes it, interacts with the Model to update data, and then updates the View accordingly.
+
+In our Library Management System project, we have implemented the MVC architecture by organizing the code into three distinct packages:
+a) `com.jsp.lms.model`: Contains classes responsible for managing data and business logic.
+b) `com.jsp.lms.view`: Encompasses classes related to the user interface and data presentation.
+c) `com.jsp.lms.controller`: Houses classes that act as intermediaries, handling user input, processing it, and facilitating communication between the Model and the View.
+
+**Source Code Structure - com.jsp.lms.model:**
+
+Within the `com.jsp.lms.model` package, two distinct classes have been implemented: `Book` and `Library`.
+
+- **Book Class:**
+  - The `Book` class comprises essential data members, including `bookname`, `AuthorName`, `price`, and `publication`. These members encapsulate key attributes related to individual books within the Library Management System.
+
+- **Library Class:**
+  - The `Library` class includes class data members such as `libraryName`, `libraryAddress`, `pinCode`, and a List of Books. These members collectively represent vital information about the library itself, including its location and the collection of books it contains.
+  
 
 
