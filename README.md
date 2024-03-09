@@ -15,7 +15,7 @@ A Library Management System is designed to streamline administrative tasks relat
 1. **Efficient Book Handling:**
    - The system is designed to be user-friendly, allowing librarians to efficiently manage books by easily adding, removing, and viewing their status.
 
-2. # Streamlined Book Addition:
+2. **Streamlined Book Addition:**
    - Librarians can seamlessly add new books to the system, enhancing the library's collection and ensuring up-to-date inventory records.
 
 3. **Issued Book Removal:**
