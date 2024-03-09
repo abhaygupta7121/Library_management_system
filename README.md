@@ -60,7 +60,9 @@ The Model-View-Controller (MVC) architecture is a structural pattern that divide
 
 In our Library Management System project, we have implemented the MVC architecture by organizing the code into three distinct packages:
 a) `com.jsp.lms.model`: Contains classes responsible for managing data and business logic.
+
 b) `com.jsp.lms.view`: Encompasses classes related to the user interface and data presentation.
+
 c) `com.jsp.lms.controller`: Houses classes that act as intermediaries, handling user input, processing it, and facilitating communication between the Model and the View.
 
 **Source Code Structure - com.jsp.lms.model:**
