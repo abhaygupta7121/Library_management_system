@@ -39,7 +39,7 @@ A Library Management System is designed to streamline administrative tasks relat
    - The simplicity of the Java language simplifies the development process, making it easier for programmers to understand, write, and maintain code.
 
 5. **Security Features:**
-   - Java is known for its robust security features, which is crucial for the handling of sensitive information in a Library Management System.
+   - Java is known for its robust security features, which are crucial for the handling of sensitive information in a Library Management System.
 
 6. **Versatility:**
    - Java's versatility enables developers to create scalable and adaptable solutions, meeting the diverse needs of a Library Management System effectively.
@@ -71,10 +71,10 @@ c) `com.jsp.lms.controller`: Houses classes that act as intermediaries, handling
 Within the `com.jsp.lms.model` package, two distinct classes have been implemented: `Book` and `Library`.
 
 - **Book Class:**
-  - The `Book` class comprises essential data members, including `bookname`, `AuthorName`, `price`, and `publication`. These members encapsulate key attributes related to individual books within the Library Management System.
+  - The `Book` class comprises essential data members, including `bookName`, `AuthorName`, `Price`. These members encapsulate key attributes related to individual books within the Library Management System.
 
 - **Library Class:**
-  - The `Library` class includes class data members such as `libraryName`, `libraryAddress`, `pinCode`, and a List of Books. These members collectively represent vital information about the library itself, including its location and the collection of books it contains.
+  - The `Library` class includes class data members such as `LibraryName`, `LibraryAddress`, `Pincode`. These members collectively represent vital information about the library itself, including its location and the collection of books it contains.
   
 
 
