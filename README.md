@@ -4,3 +4,4 @@
 
 **INTRODUCTION**
 
+A Library Management System is designed to streamline administrative tasks related to library records, ultimately enhancing efficiency by minimizing the time spent on these activities.
