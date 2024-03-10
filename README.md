@@ -76,6 +76,14 @@ Within the `com.jsp.lms.model` package, two distinct classes have been implement
 - **Library Class:**
   - The `Library` class includes class data members such as `LibraryName`, `LibraryAddress`, `Pincode`. These members collectively represent vital information about the library itself, including its location and the collection of books it contains.
 
+# To Run the project use 
+javac view.java (This code complies the source code)
+java view (This executes the code)
+
+
+# OUTPUT :
+![image](https://github.com/abhaygupta7121/Library_management_system/assets/78422889/5ae787d6-8f8a-4374-b8d9-6425ebd8833d)
+
 
 
 
