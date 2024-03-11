@@ -94,7 +94,7 @@ java view (This executes the code)
 ![2](https://github.com/abhaygupta7121/Library_management_system/assets/78422889/d451ea50-a6c7-4a9f-b986-f70d2e2eb26d)
 
 ## UPDATE BOOK DETAILS
-![3](https://github.com/abhaygupta7121/Library_management_system/assets/78422889/585797b7-c544-4218-8f86-fae31d585399)
+![3](https://github.com/abhaygupta7121/Library_management_system/assets/78422889/252665d0-4797-4502-92c2-5a4f18b2761e)
 
 ## REOMVE BOOK
 ![4](https://github.com/abhaygupta7121/Library_management_system/assets/78422889/08da0e0f-5358-44eb-9c15-cc0f817e5b48)
