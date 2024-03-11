@@ -48,7 +48,7 @@ A Library Management System is designed to streamline administrative tasks relat
 
 The Model-View-Controller (MVC) architecture is a structural pattern that divides the Library Management System into three distinct components: Model, View, and Controller.
 
-**Workflow of MVC:**
+### **Workflow of MVC:**
 1. **Model:**
    - Represents the application's data and business logic. Responsible for data manipulation, storage, and overall management of the application's internal state.
 
