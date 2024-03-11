@@ -8,7 +8,6 @@ A Library Management System is designed to streamline administrative tasks relat
 2) Search for books
 3) Remove books
 4) Update book price
-5) View all books
 
 ## Key Features of Library Management System:
 
