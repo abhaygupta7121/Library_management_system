@@ -82,7 +82,41 @@ java view (This executes the code)
 
 
 # OUTPUT :
-![image](https://github.com/abhaygupta7121/Library_management_system/assets/78422889/5ae787d6-8f8a-4374-b8d9-6425ebd8833d)
+
+## LIBRARY DETAILS
+![library details](https://github.com/abhaygupta7121/Library_management_system/assets/78422889/11bab82a-457a-43f0-8e6b-b6abf4dbea72)
+
+## ADD BOOK
+![1](https://github.com/abhaygupta7121/Library_management_system/assets/78422889/866f0f4a-e646-40b3-b53e-2f10bd348230)
+
+## GET BOOK
+![2](https://github.com/abhaygupta7121/Library_management_system/assets/78422889/d451ea50-a6c7-4a9f-b986-f70d2e2eb26d)
+
+## UPDATE BOOK DETAILS
+![3](https://github.com/abhaygupta7121/Library_management_system/assets/78422889/585797b7-c544-4218-8f86-fae31d585399)
+
+## REOMVE BOOK
+![4](https://github.com/abhaygupta7121/Library_management_system/assets/78422889/08da0e0f-5358-44eb-9c15-cc0f817e5b48)
+
+## RESULT OF GET BOOK AFTER USNING REMOVE BOOK OPTION 
+![5](https://github.com/abhaygupta7121/Library_management_system/assets/78422889/4e4710b4-dcc5-4243-8008-33f4ea1d98df)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
