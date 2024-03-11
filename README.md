@@ -78,6 +78,7 @@ Within the `com.jsp.lms.model` package, two distinct classes have been implement
 
 # To Run the project use 
 javac view.java (This code complies the source code)
+
 java view (This executes the code)
 
 
